@@ -70,7 +70,7 @@
       //--figcaption Video: Leyenda del video
     .row.justify-content-center
       .col-lg-8
-        .cajon.color-secundario.p-4.mb-4
+        .cajon.color-secundario.p-4.mb-4.bg-sec-color
           p Considerando los elementos presentados desde las herramientas didácticas, debemos resolver algunos retos en el contexto escolar y uno de ellos es 
             span.text-bold ¿cómo trabajar en equipo? y ¿por qué es importante promover el trabajo colaborativo y en equipo?
    
@@ -166,4 +166,7 @@ export default {
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass" scoped>
+.bg-sec-color{background-color: #EEFBF8}
+.fa{color: #9ddfd3}
+</style>

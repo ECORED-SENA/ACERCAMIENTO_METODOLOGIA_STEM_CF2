@@ -21,7 +21,9 @@
 
     
     #t_2_1.titulo-segundo
-      .h4 2.1 Infografía Animada
+      .h4 2.1 Método científico
+    figure.mb-5
+      img(src='@/assets/curso/t2-i2.svg', alt='infografía del método científico')
     
 
 </template>

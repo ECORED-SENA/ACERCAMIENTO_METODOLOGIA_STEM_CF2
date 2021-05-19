@@ -362,10 +362,10 @@
             p.mb-3 Australia es el país que lidera la educación en el mundo, a continuación se destaca los puntos más relevantes.
             ul.lista-ul
               li 
-                i.fas.fa-check 
+                i.fas.fa-check.c1 
                 p.mb-3 Se requiere que a través de la investigación en educación se obtenga una reforma educativa que asegure la prosperidad de los australianos.
               li
-                i.fas.fa-check 
+                i.fas.fa-check.c1 
                 p.mb-3 El Gobierno está comprometido en trabajar de manera cooperativa con todos los entes gubernamentales y privados.
           .col-lg-10
             p.mb-5
@@ -401,4 +401,6 @@ export default {
 <style lang="sass" scoped>
 .ml-3{margin-left: 20px}
 .h330{ max-height: 330px}
+.c1{color: #9ddfd3}
+.lista-ul-i{color: #9ddfd3}
 </style>
