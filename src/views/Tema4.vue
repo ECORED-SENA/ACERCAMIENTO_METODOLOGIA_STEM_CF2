@@ -24,7 +24,36 @@
         
       .col-lg-8
         p.mb-4 En todo establecimiento educativo el Proyecto Educativo Institucional y su currículo tienen un periodo de tiempo donde se pretenden alcanzar unos objetivos para un tiempo específico y al llegar el momento de su evaluación para ser actualizado, es posible que la visión y la misión de la institución sufran cambios al igual que los proyectos institucionales para que no pierdan vigencia.
-        p.mb-4 Es en ese momento cuando el equipo encargado de esta actividad decide la intensidad horaria de cada una de las asignaturas y cómo transformar el Plan de Estudios para la vinculación de la educación STEM, garantizando que se cumplan los requerimientos mínimos exigidos por los entes nacionales, dado que los estudiantes deben recibir los temas exigidos y cumplir con las evaluaciones establecidas.
+        p.mb-5 Es en ese momento cuando el equipo encargado de esta actividad decide la intensidad horaria de cada una de las asignaturas y cómo transformar el Plan de Estudios para la vinculación de la educación STEM, garantizando que se cumplan los requerimientos mínimos exigidos por los entes nacionales, dado que los estudiantes deben recibir los temas exigidos y cumplir con las evaluaciones establecidas.
+    .cajon.color-secundario.p-4.mb-5
+        p Al incluir la educación STEM en el plan de estudio se debe considerar que se requiere mayor tiempo para ello; los docentes necesitan cambiar su forma de dictar la asignatura, pues no solo van a profundizar más en los conceptos, sino que deberán hacerlo de forma integrada con sus colegas, por lo tanto, se les recomienda los siguientes aspectos al momento de las modificaciones:
+    .row.justify-content-center
+      .col-lg-5
+        .tarjeta-Avatar-b.mb-5
+          img.h90(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+          .tarjeta.tarjeta-grayBlue.p-4
+            p.text-bold Establecer el listado completo de asignaturas por cada grado.
+      .col-lg-5
+        .tarjeta-Avatar-b.mb-5
+          img.h90(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+          .tarjeta.tarjeta-grayBlue.p-4
+            p.text-bold Revisar los estándares curriculares y los planes de estudio actuales para determinar los contenidos que se van a dictar.
+    .row.justify-content-center
+      .col-lg-5
+        .tarjeta-Avatar-b.mb-5
+          img.h90(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+          .tarjeta.tarjeta-grayBlue.p-4
+            p.text-bold Establecer el requerimiento de planta profesional docente para desarrollar las asignaturas.
+      .col-lg-5
+        .tarjeta-Avatar-b.mb-5
+          img.h90(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+          .tarjeta.tarjeta-grayBlue.p-4
+            p.text-bold La nueva forma de dictar las clases, así como el nuevo papel del docente, requerirá de un nuevo diseño de unidades didácticas y actividades académicas.
+    
+    .row.justify-content-center
+      .col-lg-8
+        .cajon.color-secundario.p-4.mb-4
+          p.text-bold  En la presente gráfica se observa la importancia de incluir en este proceso a los  agentes líderes administrativos y por los departamentos de las áreas con la intención de generar las condiciones para la implementación de la educación STEM.
 
 
 </template>
@@ -38,4 +67,7 @@ export default {
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass" scoped>
+.h90 {height: 90px}
+.tarjeta-grayBlue {background-color: #D6D6DF; min-height:150px}
+</style>
