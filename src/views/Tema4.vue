@@ -7,7 +7,7 @@
         .h3
           | 4
       .h3 Planeación para la implementación de la educación STEM
-    .row.mb-5 
+    .row
       .col-lg-4
         figure.mb-5
           img(src='@/assets/curso/t4-i1.jpg', alt='Profesor explicando a su alumno en clase')
@@ -37,18 +37,18 @@
         .tarjeta-Avatar-b.mb-5.align-items-center
           img.h90(src='@/assets/curso/t4-i3.svg' alt='AvatarTop')
           .tarjeta.tarjeta-grayBlue.p-4
-            p.text-bold Establecer el listado completo de asignaturas por cada grado.
+            p.text-bold.mt-25 Establecer el listado completo de asignaturas por cada grado.
       .col-lg-5
         .tarjeta-Avatar-b.mb-5.align-items-center
           img.h90(src='@/assets/curso/t4-i4.svg' alt='AvatarTop')
-          .tarjeta.tarjeta-grayBlue.p-4
+          .tarjeta.tarjeta-grayBlue.p-4.align-items-center
             p.text-bold Revisar los estándares curriculares y los planes de estudio actuales para determinar los contenidos que se van a dictar.
     .row.justify-content-center
       .col-lg-5
         .tarjeta-Avatar-b.mb-5.align-items-center
           img.h90(src='@/assets/curso/t4-i5.svg' alt='AvatarTop')
           .tarjeta.tarjeta-grayBlue.p-4
-            p.text-bold Establecer el requerimiento de planta profesional docente para desarrollar las asignaturas.
+            p.text-bold.mt-25 Establecer el requerimiento de planta profesional docente para desarrollar las asignaturas.
       .col-lg-5
         .tarjeta-Avatar-b.mb-5.align-items-center
           img.h90(src='@/assets/curso/t4-i6.svg' alt='AvatarTop')
@@ -62,7 +62,7 @@
     .row.justify-content-center
       .col-lg-8
         .cajon.color-secundario.p-4.mb-5.bg-sec-color.bg-sec-color
-          p Al incluir la educación STEM en el plan de estudio se debe considerar que se requiere mayor tiempo para ello; los docentes necesitan cambiar su forma de dictar la asignatura, pues no solo van a profundizar más en los conceptos, sino que deberán hacerlo de forma integrada con sus colegas, por lo tanto, se les recomienda los siguientes aspectos al momento de las modificaciones:
+          p.text-bold  En la presente gráfica se observa la importancia de incluir en este proceso a los  agentes líderes administrativos y por los departamentos de las áreas con la intención de generar las condiciones para la implementación de la educación STEM.
 
 
 </template>
@@ -81,4 +81,5 @@ export default {
 .tarjeta-grayBlue {background-color: #D6D6DF; min-height:150px}
 .bg-sec-color{background-color: #EEFBF8}
 .fa{color: #9ddfd3}
+.mt-25{margin-top: 25px}
 </style>

@@ -22,7 +22,7 @@
         p.text-bold.mb-5 Recomendaciones para estructurar una actividad de tipo ABL:
 
 
-    SlyderB.mb-5(:datos="datosSliderAbl")
+    SlyderB.mb-5.customSlider(:datos="datosSliderAbl")
 
     p.mb-5.text-bold A continuación, se ha diseñado un ejemplo de una actividad desde el APL. Observa el siguiente video.
     figure.mb-5
@@ -170,4 +170,6 @@ export default {
 .bg-sec-color{background-color: #EEFBF8}
 .fa{color: #9ddfd3}
 .lista-ul i{color: #CC3D60}
+.customSlider p{margin: 25px 0px}
+.slyder__action{margin-top: 25px important}
 </style>
