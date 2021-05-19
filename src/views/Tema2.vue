@@ -15,6 +15,10 @@
          span.etiqueta.text-bold ¿Qué es y para qué sirve el método científico?
 
       .col-lg-5
+        figure.mb-5
+          img(src='@/assets/curso/t2-i1.jpg', alt='ilustración niños en salon de clase explorando un dispositivo electronico')
+        //-- figcaption Leyenda de la imagen
+
     
     #t_2_1.titulo-segundo
       .h4 2.1 Infografía Animada

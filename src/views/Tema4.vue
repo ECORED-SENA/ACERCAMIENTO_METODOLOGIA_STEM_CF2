@@ -9,6 +9,9 @@
       .h3 Planeación para la implementación de la educación STEM
     .row.mb-5 
       .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t4-i1.jpg', alt='Profesor explicando a su alumno en clase')
+        //-- figcaption Leyenda de la imagen
 
       .col-lg-8
         p.mb-4 Para desarrollar la planeación de la educación STEM en la institución educativa es importante considerar: ¿a dónde se quiere llegar con esta forma de enseñar y aprender? Para iniciar, se debe considerar la misión y la visión de la institución, así como los proyectos que en la actualidad viene desarrollando, los recursos humanos con los que actualmente cuenta y la disponibilidad de los equipos de docentes para acometer esta nueva propuesta educativa. Uno de los grandes fenómenos que se presentan en el campo de la educación es la dificultad por parte de docentes y estudiantes de trabajar en equipo y de manera colaborativa.
@@ -21,7 +24,9 @@
       .h4 4.1 El alcance de la educación STEM y el PEI y el currículo
     .row
       .col-lg-4
-        
+        figure.mb-5
+          img(src='@/assets/curso/t4-i2.jpg', alt='ilustración niños jugando al rededor de un globo mapamundi')
+        //-- figcaption Leyenda de la imagen
       .col-lg-8
         p.mb-4 En todo establecimiento educativo el Proyecto Educativo Institucional y su currículo tienen un periodo de tiempo donde se pretenden alcanzar unos objetivos para un tiempo específico y al llegar el momento de su evaluación para ser actualizado, es posible que la visión y la misión de la institución sufran cambios al igual que los proyectos institucionales para que no pierdan vigencia.
         p.mb-5 Es en ese momento cuando el equipo encargado de esta actividad decide la intensidad horaria de cada una de las asignaturas y cómo transformar el Plan de Estudios para la vinculación de la educación STEM, garantizando que se cumplan los requerimientos mínimos exigidos por los entes nacionales, dado que los estudiantes deben recibir los temas exigidos y cumplir con las evaluaciones establecidas.
@@ -52,7 +57,7 @@
     
     .row.justify-content-center
       .col-lg-8
-        .cajon.color-secundario.p-4.mb-4
+        .cajon.color-acento-contenido.p-4.mb-4
           p.text-bold  En la presente gráfica se observa la importancia de incluir en este proceso a los  agentes líderes administrativos y por los departamentos de las áreas con la intención de generar las condiciones para la implementación de la educación STEM.
 
 
