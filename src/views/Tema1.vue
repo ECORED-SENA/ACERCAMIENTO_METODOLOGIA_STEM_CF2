@@ -225,7 +225,6 @@
 
 
         .row.justify-content-center(titulo="Alemania")
-             
           .col-md-10.mb-4.mb-md-0
             p.mb-3 Este país siempre ha sido reconocido como la locomotora europea por desarrollos industriales y avances tecnológicos, pero en la actualidad enfrenta una situación preocupante de su fuerza laboral con relación a las asignaturas de Ciencia y Tecnología, donde se presenta poco interés:
             ul.lista-ul
@@ -258,11 +257,7 @@
 
                 
 
-        .row.justify-content-center(titulo="Finlandia")
-          //-.col-md-6
-            figure
-              img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')
-              //-- figcaption Leyenda de la imagen      
+        .row.justify-content-center(titulo="Finlandia")    
           .col-md-10.mb-4.mb-md-0
             p.mb-3 Este país presenta un avance sustancial en ciencias, matemáticas y lectura. Sin embargo, en los últimos años se muestra un bajo interés, motivación y satisfacción en las áreas de Ciencia, Ingeniería, para lo cual han desarrollado dos planes estratégicos:
             ul.lista-ul
