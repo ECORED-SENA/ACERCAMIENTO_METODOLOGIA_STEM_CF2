@@ -25,14 +25,6 @@ export default {
         numero: '1',
         titulo: '¿Por qué enseñar educación STEM en el mundo?',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Estilos tipográficos',
-            hash: 't_1_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
