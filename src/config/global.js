@@ -186,7 +186,7 @@ export default {
         cargo: 'Diseño web y Producción Audiovisual',
       },
       {
-        nombre: 'Edward Leonardo Pico Cabra',
+        nombre: 'Luis Mendez',
         cargo: 'Desarrollo Front-End',
       },
       {
@@ -206,124 +206,64 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Dobson, I. (2013). MADRE; Comparaciones de países: Europa. Un examen crítico de las soluciones existentes para la escasez de habilidades STEM en países comparables. Consejo Australiano de Academias Eruditas. Melbourne. ',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Hughes, A. (2007). Vínculos universidad-industria y políticas sobre ciencia e innovación. Reino Unido.',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Marginson, S. T. (2013). Comparaciones de países: comparaciones internacionales de educación en ciencia, tecnología, ingeniería y matemáticas (STEM). Servicio de Investigación del Congreso.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Oppenheimer, A. (2018). ¡Sálvese quien pueda! El futuro del trabajo en la era de la automatización. Debate.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+      termino: 'ACOLA',
+      significado: 'Consejo Australiano de Academias Eruditas.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Monozukuri',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Filosofía japonesa de trabajo que es interpretada por cada organización donde entrenan a sus ciudadanos en ambientes simulados y usando nuevas tecnologías, la mejora de sus destrezas, así como habilidades en oficios específicos para aumentar su competitividad.',
     },
     {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+      termino: 'PISA',
+      significado: 'Programa para la Evaluación Internacional de Alumnos.',
     },
     {
-      termino: 'Vectores',
+      termino: 'MINT',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Se utiliza para denominar a los países emergentes en los que se brindan oportunidades de negocio y educación en Ciencias, Ingeniería y Tecnología avanzadas.',
     },
     {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'Diseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Software',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'ABP',
+      significado: 'Aprendizaje Basado en Proyectos.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'El cambio de mentalidad: Barbe, N. B. (2019). ¡Sálvese quien pueda! Nueva ruta libertadora por la paz y la educación. Universidad Nacional, Arauca.',
+      tipo: 'Síntesis del libro: ¡Sálvese quien pueda! Norbert-Bertrand Barbe',
+      link: 'https://hal.archives-ouvertes.fr/hal-03080875/document',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Educación STEM: Thunberg, G. (2019). Nadie es demasiado pequeño para marcar la diferencia. Penguin.',
+      tipo: 'PDF',
+      descarga:
+        'https://cursos.fundaciontejerideas.org/asset-v1:tejerideas+STEM101_A+2021_C1+type@asset+block/Six_Months_on_a_Planet_in_Crisis_Greta_Thunberg_s_Travel_Diary_from_the_U.S._to_Davos.pdf ',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Educación y trabajo: willrobotstakemyjob.com. (2021). ¿Los robots harán mi trabajo?  ',
+      tipo: 'Sitio web',
+      link: 'https://willrobotstakemyjob.com/',
     },
   ],
 }
