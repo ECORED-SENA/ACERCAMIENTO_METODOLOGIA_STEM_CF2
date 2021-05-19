@@ -169,4 +169,5 @@ export default {
 <style lang="sass" scoped>
 .bg-sec-color{background-color: #EEFBF8}
 .fa{color: #9ddfd3}
+.lista-ul i{color: #CC3D60}
 </style>

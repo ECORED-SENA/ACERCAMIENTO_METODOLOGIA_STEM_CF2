@@ -360,7 +360,7 @@
               //-- figcaption Leyenda de la imagen      
           .col-md-6.mb-4.mb-md-0
             p.mb-3 Australia es el país que lidera la educación en el mundo, a continuación se destaca los puntos más relevantes.
-            ul.lista-ul
+            ul.lista-ul.customIcList
               li 
                 i.fas.fa-check.c1 
                 p.mb-3 Se requiere que a través de la investigación en educación se obtenga una reforma educativa que asegure la prosperidad de los australianos.
@@ -386,12 +386,8 @@
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
   data: () => ({
     // variables de vue
   }),
@@ -401,6 +397,5 @@ export default {
 <style lang="sass" scoped>
 .ml-3{margin-left: 20px}
 .h330{ max-height: 330px}
-.c1{color: #9ddfd3}
-.lista-ul-i{color: #9ddfd3}
+.lista-ul i{color: #CC3D60}
 </style>
