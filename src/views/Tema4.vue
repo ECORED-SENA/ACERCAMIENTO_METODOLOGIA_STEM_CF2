@@ -29,23 +29,23 @@
         p Al incluir la educación STEM en el plan de estudio se debe considerar que se requiere mayor tiempo para ello; los docentes necesitan cambiar su forma de dictar la asignatura, pues no solo van a profundizar más en los conceptos, sino que deberán hacerlo de forma integrada con sus colegas, por lo tanto, se les recomienda los siguientes aspectos al momento de las modificaciones:
     .row.justify-content-center
       .col-lg-5
-        .tarjeta-Avatar-b.mb-5
+        .tarjeta-Avatar-b.mb-5.align-items-center
           img.h90(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
           .tarjeta.tarjeta-grayBlue.p-4
             p.text-bold Establecer el listado completo de asignaturas por cada grado.
       .col-lg-5
-        .tarjeta-Avatar-b.mb-5
+        .tarjeta-Avatar-b.mb-5.align-items-center
           img.h90(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
           .tarjeta.tarjeta-grayBlue.p-4
             p.text-bold Revisar los estándares curriculares y los planes de estudio actuales para determinar los contenidos que se van a dictar.
     .row.justify-content-center
       .col-lg-5
-        .tarjeta-Avatar-b.mb-5
+        .tarjeta-Avatar-b.mb-5.align-items-center
           img.h90(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
           .tarjeta.tarjeta-grayBlue.p-4
             p.text-bold Establecer el requerimiento de planta profesional docente para desarrollar las asignaturas.
       .col-lg-5
-        .tarjeta-Avatar-b.mb-5
+        .tarjeta-Avatar-b.mb-5.align-items-center
           img.h90(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
           .tarjeta.tarjeta-grayBlue.p-4
             p.text-bold La nueva forma de dictar las clases, así como el nuevo papel del docente, requerirá de un nuevo diseño de unidades didácticas y actividades académicas.
