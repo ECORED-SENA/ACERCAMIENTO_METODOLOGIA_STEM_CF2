@@ -69,7 +69,7 @@
     .tarjeta.tarjeta--gris.p-4.mb-5
       //- PasosB debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-      PasosB.color-acento-contenido
+      LineaTiempoC.color-acento-contenido
 
         .row.justify-content-center(titulo="China")
           .col-md-4
