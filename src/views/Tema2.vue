@@ -19,12 +19,13 @@
           img(src='@/assets/curso/t2-i1.jpg', alt='ilustración niños en salon de clase explorando un dispositivo electronico')
         //-- figcaption Leyenda de la imagen
 
-    
-    #t_2_1.titulo-segundo
-      .h4 2.1 Método científico
     figure.mb-5
       img(src='@/assets/curso/t2-i2.svg', alt='infografía del método científico')
-    
+    .row.justify-content-center
+      .col-lg-8
+        .cajon.color-secundario.p-4.mb-5.bg-sec-color.bg-sec-color
+          p El método científico es un proceso en espiral que no tiene fin y se reinicia nuevamente cuando los estudiantes se plantean nuevas preguntas para ser resueltas.
+
 
 </template>
 
@@ -39,4 +40,5 @@ export default {
 
 <style lang="sass" scoped>
 .etiqueta {background-color: #FFE5EB; color:#000}
+.bg-sec-color{background-color: #EEFBF8}
 </style>

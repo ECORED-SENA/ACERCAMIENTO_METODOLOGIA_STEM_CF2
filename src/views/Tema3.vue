@@ -107,7 +107,7 @@ export default {
         titulo: 'Establecer roles',
         texto:
           'Divida a los estudiantes por roles durante la actividad, esto les permite siempre tener una responsabilidad específica durante a la actividad, evitando que se aíslen o sientan que no son parte del proceso; se debe buscar que la actitud del estudiante siempre sea activa y propositiva.',
-        imagen: require('@/assets/curso/t3-i4.jpg'),
+        imagen: require('@/assets/curso/t3-i5.jpg'),
         //-- leyendaImagen: 'Leyenda de la imagen',
       },
     ],
