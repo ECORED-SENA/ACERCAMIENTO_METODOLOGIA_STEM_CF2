@@ -73,7 +73,7 @@ export default {
     ],
     subMenu: [
       {
-        nombreRuta: 'Actividad',
+        nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,

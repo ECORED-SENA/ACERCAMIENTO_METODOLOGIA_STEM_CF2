@@ -13,11 +13,11 @@
           .h4 Actividad didáctica 1
         p.mb-4 Cras tempus tortor et nisi tincidunt feugiat. Integer lacus ante, venenatis nec fringilla quis, dapibus ut dui. Fusce imperdiet velit a leo sagittis, id scelerisque massa placerat. Duis at dui sed enim euismod pulvinar quis ac ante. Phasellus condimentum sapien nisi, ac facilisis purus tristique ac. Quisque magna est, luctus vitae elit ut, convallis venenatis justo. Nunc pretium elit a nisi tempus sagittis.
         .tarjeta.tarjeta--azul.p-3
-          .row.justify-content-around.align-items-center            
-            .col-sm.mb-3.mb-sm-0
+          .row        
+            //--.col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Descripción de la actividad didáctica.
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
+              a.boton.boton--b.negro(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
 
@@ -31,4 +31,6 @@ export default {
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass" scoped>
+.negro span, .negro i{color: #000 !important}
+</style>
