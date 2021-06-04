@@ -33,7 +33,7 @@
     //-- Aprendizaje basado en proyectos
     #t_3_2.titulo-segundo
       .h4 3.2 Aprendizaje Basado en Proyectos (ABP)
-    p.mb-5 Considerada la herramienta pedagógica más poderosa  actualmente para desarrollar una enseñanza interdisciplinaria, ya que brinda excelentes resultados, para la educación STEM se convierte en una herramienta fundamental.  A continuación, se presentan las ventajas de esta herramienta:
+    p.mb-5 Considerada la herramienta pedagógica más poderosa  actualmente para desarrollar una enseñanza interdisciplinaria, ya que brinda excelentes resultados, para la educación STEM, se convierte en una herramienta fundamental.  A continuación, se presentan las ventajas de esta herramienta:
     .row.mb-5
       .col-lg-5
         figure.mb-5
@@ -46,7 +46,7 @@
             i.fas.fa-check 
             p.mb-3 
               span.text-bold El docente no es la fuente principal de conocimiento: 
-              | Los estudiantes perciben la Ciencia como demasiado abstracta, porque se pretende enseñar ideas fundamentales sin el suficiente respaldo experimental, observacional e interpretativo y sin mostrar, adecuadamente, sus implicaciones y sin darles la oportunidad de un desarrollo acumulativo de su comprensión e importancia.
+              | es una guía de aprendizaje, es parte de su nuevo rol, por lo tanto, la clase no está centrada en el docente sino en el estudiante.
           li
             i.fas.fa-check 
             p.mb-3 
@@ -106,7 +106,7 @@ export default {
       {
         titulo: 'Establecer roles',
         texto:
-          'Divida a los estudiantes por roles durante la actividad, esto les permite siempre tener una responsabilidad específica durante a la actividad, evitando que se aíslen o sientan que no son parte del proceso; se debe buscar que la actitud del estudiante siempre sea activa y propositiva.',
+          'Divida a los estudiantes por roles durante la actividad, esto les permite siempre tener una responsabilidad específica durante la actividad, evitando que se aíslen o sientan que no son parte del proceso; se debe buscar que la actitud del estudiante siempre sea activa y propositiva.',
         imagen: require('@/assets/curso/t3-i5.jpg'),
         //-- leyendaImagen: 'Leyenda de la imagen',
       },
@@ -129,7 +129,7 @@ export default {
       {
         titulo: 'Planificación del proyecto',
         texto:
-          'Para lograr un buen desarrollo del proyecto es importante establecer entre el docente y los estudiantes la pregunta inicial que establece el objetivo general del proyecto, y las preguntas auxiliares que darán origen a los objetivos específicos, con el fin mostrar evidencias parciales del avance del modelo, producto o desempeño.',
+          'Para lograr un buen desarrollo del proyecto es importante establecer entre el docente y los estudiantes la pregunta inicial que establece el objetivo general del proyecto, y las preguntas auxiliares que darán origen a los objetivos específicos, con el fin de mostrar evidencias parciales del avance del modelo, producto o desempeño.',
         imagen: require('@/assets/curso/t3-i9.jpg'),
         //--leyendaImagen: 'Leyenda de la imagen',
       },
