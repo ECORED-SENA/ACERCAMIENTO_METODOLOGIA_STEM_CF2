@@ -216,16 +216,16 @@ export default {
   glosario: [
     {
       termino: 'ACOLA',
-      significado: 'Consejo Australiano de Academias Eruditas.',
+      significado: ' Consejo Australiano de Academias Eruditas. ',
     },
     {
       termino: 'Monozukuri',
       significado:
-        'Filosofía japonesa de trabajo que es interpretada por cada organización donde entrenan a sus ciudadanos en ambientes simulados y usando nuevas tecnologías, la mejora de sus destrezas, así como habilidades en oficios específicos para aumentar su competitividad.',
+        ' filosofía japonesa de trabajo que es interpretada por cada organización donde entrenan a sus ciudadanos en ambientes simulados y usando nuevas tecnologías, la mejora de sus destrezas, así como habilidades en oficios específicos para aumentar su competitividad.',
     },
     {
       termino: 'PISA',
-      significado: 'Programa para la Evaluación Internacional de Alumnos.',
+      significado: ' Programa para la Evaluación Internacional de Alumnos.',
     },
     {
       termino: 'MINT',
@@ -234,7 +234,7 @@ export default {
     },
     {
       termino: 'ABP',
-      significado: 'Aprendizaje Basado en Proyectos.',
+      significado: ' Aprendizaje Basado en Proyectos.',
     },
   ],
   complementario: [
@@ -248,8 +248,7 @@ export default {
       texto:
         'Educación STEM: Thunberg, G. (2019). Nadie es demasiado pequeño para marcar la diferencia. Penguin.',
       tipo: 'PDF',
-      descarga:
-        'https://cursos.fundaciontejerideas.org/asset-v1:tejerideas+STEM101_A+2021_C1+type@asset+block/Six_Months_on_a_Planet_in_Crisis_Greta_Thunberg_s_Travel_Diary_from_the_U.S._to_Davos.pdf ',
+      link: ' https://bit.ly/34LXC7I ',
     },
     {
       texto:
