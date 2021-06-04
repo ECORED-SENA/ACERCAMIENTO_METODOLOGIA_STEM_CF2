@@ -151,7 +151,7 @@
                 p.mb-3 La formación en matemáticas tiene especial atención en los primeros grados de la primaria donde se hace énfasis en esta asignatura.
               li
                 i.fas.fa-check 
-                p.mb-3 El estudiante va transitando su diferentes niveles de estudio, apoyado en gran medida por sus padres, especialmente en matemáticas que es una prioridad.
+                p.mb-3 El estudiante va transitando sus diferentes niveles de estudio, apoyado en gran medida por sus padres, especialmente en matemáticas que es una prioridad.
               li 
                 i.fas.fa-check 
                 p.mb-3 Este país encabeza la lista de países líderes en STEM.
@@ -163,7 +163,7 @@
                 p.mb-3 Se ha invertido una gran cantidad de recursos de la nación en el impulso de las Ciencias Médicas convirtiéndose en un centro fundamental de talentos.
               li
                 i.fas.fa-check 
-                p.mb-3 Cuenta con apoyo de Universidades internacionales como MIT para el desarrollo de muchas de sus configuraciones académicas.
+                p.mb-3 Cuenta con apoyo de universidades internacionales como MIT para el desarrollo de muchas de sus configuraciones académicas.
           .col-lg-10
             p.mb-5
               span.text-bold Conclusión:
@@ -184,7 +184,7 @@
                 p.mb-3 Desarrollo de colegios especiales llamados “Primer Plan Maestro para la Educación”. 
               li
                 i.fas.fa-check 
-                p.mb-3 Apoyo del Recurso Humano en Ciencias y Tecnología”, esto ha permitido mejorar la inserción laboral a puestos de trabajo de tipo técnico y elevar el estatus profesional de los ciudadanos.
+                p.mb-3 Apoyo del "Recurso Humano en Ciencias y Tecnología”, esto ha permitido mejorar la inserción laboral a puestos de trabajo de tipo técnico y elevar el estatus profesional de los ciudadanos.
           .col-lg-10
             p.mb-5
               span.text-bold Conclusión:
@@ -197,7 +197,7 @@
               img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')
               //-- figcaption Leyenda de la imagen      
           .col-md-10.mb-4.mb-md-0
-            p.mb-3 Este país en los últimos años ha presentado buenos resultados en las pruebas PISA, especialmente el año 2012, dentro de su propuesta educativa se destaca el fomentar el entendimiento de las ciencias por los estudiantes más jóvenes, así como mejorar la actitud frente a la ciencias y la tecnología:
+            p.mb-3 Este país en los últimos años ha presentado buenos resultados en las pruebas PISA, especialmente el año 2012, dentro de su propuesta educativa se destaca el fomentar el entendimiento de las ciencias por los estudiantes más jóvenes, así como mejorar la actitud frente a la ciencia y la tecnología:
             ul.lista-ul
               li 
                 i.fas.fa-check 
@@ -224,7 +224,7 @@
             p.mb-5
               span.text-bold Conclusión:
               br
-              | La educación STEM es fuerte en los estados su modelo político no le permite tener una solo unidad de criterio en el tema de la educación pero se presentan grandes avances en ciencia y tecnología para su desarrollo.
+              | La educación STEM es fuerte en los estados, su modelo político no le permite tener una solo unidad de criterio en el tema de la educación pero se presentan grandes avances en ciencia y tecnología para su desarrollo.
 
 
         .row.justify-content-center(titulo="Alemania")
@@ -262,7 +262,7 @@
 
         .row.justify-content-center(titulo="Finlandia")    
           .col-md-10.mb-4.mb-md-0
-            p.mb-3 Este país presenta un avance sustancial en ciencias, matemáticas y lectura. Sin embargo, en los últimos años se muestra un bajo interés, motivación y satisfacción en las áreas de Ciencia, Ingeniería, para lo cual han desarrollado dos planes estratégicos:
+            p.mb-3 Mencionaremos algunos de los aspectos por los cuales este país es Excelencia en enseñanza:
             ul.lista-ul
               li 
                 i.fas.fa-check 

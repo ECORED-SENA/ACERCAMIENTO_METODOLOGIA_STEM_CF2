@@ -6,7 +6,7 @@
       .titulo-principal__numero
         .h3
           | 3
-      .h3 Herramientas Didácticas para el pensamiento científico con STEM
+      .h3 Herramientas didácticas para el pensamiento científico con STEM
     p.mb-5 A continuación, se presentan dos herramientas didácticas que pueden ser utilizadas por los docentes al momento de diseñar una actividad STEM para sus estudiantes, se mostrarán claramente las diferencias que existen entre cada una de ellas. Estas herramientas son:  
      //-- Aprendizaje basado en lecciones
     #t_3_1.titulo-segundo

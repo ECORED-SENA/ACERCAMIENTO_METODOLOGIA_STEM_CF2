@@ -12,7 +12,7 @@
         p.mb-4 Desde la educación inicial y a lo largo de la formación de los futuros ciudadanos es necesario prepararlos para desenvolverse en contextos cada vez más complejos que requieren respuestas rápidas a la solución de problemas que se presentan en el entorno más cercano en la cotidianidad, por ello se hace necesario desmitificar la idea de que la ciencia es ajena a la sociedad, desde las instituciones educativas se pueden generar procesos que fortalezcan las prácticas formativas incentivando en los estudiantes procesos mentales que les ayuden a solucionar problemas de su entorno.
         p.mb-4 La educación STEM invita a los docentes e instructores a incentivar en sus estudiantes la curiosidad por lo que ocurre en su entorno, en su ciudad, su región su país y a profundizar sus conocimientos, conceptos, principios, leyes y teorías de las disciplinas de las ciencias, buscando que realicen conexiones entre los conocimientos de las ciencias, las otras disciplinas y las experiencias prácticas de aula en Ciencia e Ingeniería, motivando las conexiones para que, de manera crítica, formulen la resolución de problemas de su vida cotidiana. 
         p.mb-4 A continuación, se recuerda el método científico utilizado en el desarrollo de investigaciones formativas para la educación superior, pero que debe ser utilizado desde la educación inicial para la construcción de un pensamiento científico y contribuir a la gestión del cambio e implementación de la educación STEM. La pregunta que debe hacerse para la lectura del siguiente recurso de aprendizaje es: 
-         span.etiqueta.text-bold ¿Qué es y para qué sirve el método científico?
+         span.etiqueta.text-bold ¿qué es y para qué sirve el método científico?
 
       .col-lg-5
         figure.mb-5
@@ -21,10 +21,6 @@
 
     figure.mb-5
       img(src='@/assets/curso/t2-i2.svg', alt='infografía del método científico')
-    .row.justify-content-center
-      .col-lg-8
-        .cajon.color-secundario.p-4.mb-5.bg-sec-color.bg-sec-color
-          p El método científico es un proceso en espiral que no tiene fin y se reinicia nuevamente cuando los estudiantes se plantean nuevas preguntas para ser resueltas.
 
 
 </template>
