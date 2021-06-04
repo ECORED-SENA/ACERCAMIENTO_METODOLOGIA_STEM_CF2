@@ -51,9 +51,6 @@
           li 
             i.fas.fa-check 
             | Los programas de ciencias, son en su mayoría, excesivamente fácticos, en parte por el crecimiento vertiginoso del conocimiento científico y la continua adición de temas a una extensa gama de ellos.
-          li 
-            i.fas.fa-check 
-            | Es fundamental aumentar la participación de la mujer en las áreas de desarrollo de los países, ya que su participación en los puestos de trabajo de liderazgo en Ciencia y Tecnología es muy baja.
           li
             i.fas.fa-check
             | Los contenidos y la forma de transmisión de enseñanza tradicionalmente establecida, tiende a distorsionar la comprensión del estudiante sobre la naturaleza de la Ciencia y del conocimiento, al ignorar los aspectos metodológicos de razonamiento y culturales de la Ciencia.
@@ -77,14 +74,20 @@
               img(src='@/assets/curso/t1-i4.png', alt='mapa y representación de China')
               //-- figcaption Leyenda de la imagen      
           .col-md-6.mb-4.mb-md-0
-            p.mb-3 Este país presenta un avance sustancial en ciencias, matemáticas y lectura. Sin embargo, en los últimos años se muestra un bajo interés, motivación y satisfacción en las áreas de Ciencia, Ingeniería, para lo cual han desarrollado dos planes estratégicos:
+            p.mb-3 Para este país la instrucción en Ciencia es primordial y esencial en la educación. Algunas premisas son:
             ul.lista-ul
               li 
                 i.fas.fa-check 
-                p.mb-3 Desarrollo de colegios especiales llamados “Primer Plan Maestro para la Educación”.
+                p.mb-3 Cultivar los talentos en ciencia con una educación especializada.
               li
                 i.fas.fa-check 
-                p.mb-3 Apoyo del Recurso Humano en Ciencias y Tecnología”, esto ha permitido mejorar la inserción laboral a puestos de trabajo de tipo técnico y elevar el estatus profesional de los ciudadanos.
+                p.mb-3 Fomentar la educación en ciencias para todos los estudiantes, inclusive para aquellos que no se interesan en esta especialidad.
+              li
+                i.fas.fa-check 
+                p.mb-3 El enfoque educativo se centra en el docente, la teoría prima y los exámenes nacionales son fundamentales y se complementan con tareas en casa.
+              li
+                i.fas.fa-check 
+                p.mb-3 La industria y las universidades trabajan en conjunto para desarrollar a los futuros científicos del país.
 
           .col-lg-10
             p.mb-5
