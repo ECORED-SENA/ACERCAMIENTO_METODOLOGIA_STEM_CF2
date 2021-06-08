@@ -10,7 +10,7 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          .h4 Actividad didáctica: acercamiento a la metodología STEM: ideas para implementarla 
+          .h4 Actividad didáctica: Acercamiento a la metodología STEM: que es e ideas para implementarla
         p.mb-4 Apreciado participante, a continuación encontrará unos enunciados relacionados con la experiencia de aprendizaje del presente componente de formación.
         .tarjeta.tarjeta--azul.p-3
           .row        

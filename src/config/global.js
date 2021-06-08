@@ -1,6 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Diseño de actividades con educación STEM',
+    componenteFormativo:
+      'Acercamiento a la metodología STEM: que es e ideas para implementarla',
     descripcionCurso:
       'La educación STEM surge ante la oportunidad de transformar las formas de enseñar-aprender. En el momento de su implementación se deben considerar diferentes condiciones presentadas en el entorno escolar. Inicialmente aspectos por considerar son el proceso direccionado a construir un pensamiento científico, las herramientas didácticas, la planeación y el trabajo colaborativo en el marco de su currículo escolar.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
