@@ -47,7 +47,7 @@
             | Puede decirse que la política y la práctica de la educación escolar en la ciencia viven en su propio mundo. A pesar de que existe la investigación europea sobre la enseñanza de la Ciencia, la educación en la Ciencia sigue teniendo una base empírica.
           li
             i.fas.fa-check 
-            | Los estudiantes perciben la Ciencia como demasiado abstracta, porque se pretende enseñar ideas fundamentales sin el suficiente respaldo experimental, observacional e interpretativo y sin mostrar, adecuadamente, sus implicaciones y sin darles la oportunidad de un desarrollo acumulativo de su comprensión e importancia.
+            | Los estudiantes perciben la Ciencia demasiado abstracta, porque se pretende enseñar ideas fundamentales sin el suficiente respaldo experimental, observacional e interpretativo y sin mostrar, adecuadamente, sus implicaciones y sin darles la oportunidad de un desarrollo acumulativo de su comprensión e importancia.
           li 
             i.fas.fa-check 
             | Los programas de ciencias, son en su mayoría, excesivamente fácticos, en parte por el crecimiento vertiginoso del conocimiento científico y la continua adición de temas a una extensa gama de ellos.
