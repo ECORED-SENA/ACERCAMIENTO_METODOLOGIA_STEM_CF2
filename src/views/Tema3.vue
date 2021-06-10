@@ -23,13 +23,25 @@
 
 
     SlyderB.mb-5.customSlider(:datos="datosSliderAbl")
+    
+    .tarjeta.color-primario.text-white.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/t3-ic1.svg", alt='imagen decorativa')
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              .h5.mb-0 Actividad APL: Las arepas y la identidad Latinoamérica
+              p A continuación, se ha diseñado un ejemplo de una actividad desde el APL.<br>
+                span.text-bold Descarga la siguiente infografía.  
 
-    p.mb-5.text-bold A continuación, se ha diseñado un ejemplo de una actividad desde el APL. Observa el siguiente video.
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      //--figcaption Video: Leyenda del video
+            .col-sm-auto
+              a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Infografia_DI_CF2_Herramientasdidacticas_APL.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
 
+    br
+    br
     //-- Aprendizaje basado en proyectos
     #t_3_2.titulo-segundo
       .h4 3.2 Aprendizaje Basado en Proyectos (ABP)
@@ -64,10 +76,23 @@
               | estudiantes y docentes en el desarrollo de la investigación descubren los  conocimientos previos que se requieren y cuáles les hacen falta y por ellos ambos toman una actitud activa en el proceso de aprendizaje.
     p.mb-5.text-bold Recomendaciones para estructurar una actividad de tipo ABP:
     SlyderB.mb-5(:datos="datosSliderAbp")
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      //--figcaption Video: Leyenda del video
+    .tarjeta.color-primario.text-white.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/t3-ic1.svg", alt='imagen decorativa')
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  .h5.mb-0 Actividad ABP: Manejo de residuos domésticos
+                  p A continuación, se ha diseñado un ejemplo de una actividad desde el ABP.<br>
+                    span.text-bold Descarga la siguiente infografía.  
+
+                .col-sm-auto
+                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Infografia_CF2_ABP_Manejo de residuos.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
+   
+
     .row.justify-content-center
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4.bg-sec-color
