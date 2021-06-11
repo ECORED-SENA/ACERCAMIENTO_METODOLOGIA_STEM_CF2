@@ -79,7 +79,7 @@
     .tarjeta.color-primario.text-white.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/t3-ic1.svg", alt='imagen decorativa')
+              img(src="@/assets/curso/t3-ic2.svg", alt='imagen decorativa')
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
