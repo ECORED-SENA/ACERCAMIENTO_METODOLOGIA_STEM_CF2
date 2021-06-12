@@ -31,12 +31,12 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              .h5.mb-0 Actividad APL: Las arepas y la identidad Latinoamérica
+              .h5.mb-0 Actividad APL:<br> Las arepas y la identidad Latinoamérica
               p A continuación, se ha diseñado un ejemplo de una actividad desde el APL.<br>
                 span.text-bold Descarga la siguiente infografía.  
 
             .col-sm-auto
-              a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Infografia_DI_CF2_Herramientasdidacticas_APL.pdf')" target="_blank")
+              a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Infografia_DI_CF2_Herramientasdidacticas-APL.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
@@ -83,12 +83,12 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  .h5.mb-0 Actividad ABP: Manejo de residuos domésticos
+                  .h5.mb-0 Actividad ABP:<br> Manejo de residuos domésticos
                   p A continuación, se ha diseñado un ejemplo de una actividad desde el ABP.<br>
                     span.text-bold Descarga la siguiente infografía.  
 
                 .col-sm-auto
-                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Infografia_CF2_ABP_Manejo de residuos.pdf')" target="_blank")
+                  a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Infografia_CF2_ABP-Manejo-de-residuos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
    
