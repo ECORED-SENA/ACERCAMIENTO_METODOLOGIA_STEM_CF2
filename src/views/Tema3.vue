@@ -31,8 +31,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              .h5.mb-0 Actividad APL:<br> Las arepas y la identidad Latinoamérica
-              p A continuación, se ha diseñado un ejemplo de una actividad desde el APL.<br>
+              .h5.mb-0 Actividad APL:<br> "Las arepas y la identidad Latinoamérica"
+              p A continuación, se ha diseñado un ejemplo de una actividad desde el APL. 
                 span.text-bold Descarga la siguiente infografía.  
 
             .col-sm-auto
@@ -83,8 +83,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  .h5.mb-0 Actividad ABP:<br> Manejo de residuos domésticos
-                  p A continuación, se ha diseñado un ejemplo de una actividad desde el ABP.<br>
+                  .h5.mb-0 Actividad ABP:<br> "Manejo de residuos domésticos"
+                  p A continuación, se ha diseñado un ejemplo de una actividad desde el ABP. 
                     span.text-bold Descarga la siguiente infografía.  
 
                 .col-sm-auto
