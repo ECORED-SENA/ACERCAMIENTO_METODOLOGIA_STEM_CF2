@@ -157,6 +157,16 @@ export default {
         cargo: 'Diseño web',
       },
       {
+        nombre: [
+          'Zuleidy Maria Ruiz Torres',
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Víctor Cardenas',
+          'Arnulfo Beltrán',
+        ],
+        cargo: 'Producción audiovisual',
+      },
+      {
         nombre: 'Luis Fabian Robles Méndez',
         cargo: 'Desarrollo Front-End',
       },
