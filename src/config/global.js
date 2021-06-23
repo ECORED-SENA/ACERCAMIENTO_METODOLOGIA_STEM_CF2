@@ -39,7 +39,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '3',
         titulo:
-          'Herramientas Didácticas para el pensamiento científico con STEM',
+          'Herramientas didácticas para el pensamiento científico con STEM',
         desarrolloContenidos: true,
         subMenu: [
           {
